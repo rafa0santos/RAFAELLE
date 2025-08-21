@@ -1,37 +1,33 @@
 body {
-    color:rgb(197, 190, 197);
-    background:rgb(248, 138, 157);
+  color: rgb(197, 190, 197);
+  background: rgb(248, 138, 157);
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+  margin-bottom: 100px;
 }
 
 
 .categoria-videos img {
-    opacity: 0.5;
-    height: 200px;
+  opacity: 0.5;
+  height: 200px;
 }
-.categoria-videos img:hover {
 
-}
+.categoria-videos img:hover {}
 
 .categoria-videos img {
-    opacity: 0.5;
-    height: 200px
-      border: 1px solid green;
-    
+  opacity: 0.5;
+  height: 200px border: 1px solid green;
+
 }
 
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+  color: rgb(42, 122, 228);
 }
+
 .categoria {
   padding-left: 20px;
   padding-right: 20px;
   margin-top: 50px;
 }
-body {
-  color: white;
-  background: black;
-  margin: 0px;
-  font-family: "Chakra Petch", sans-serif;
-  margin-bottom: 100px;
-}
+
